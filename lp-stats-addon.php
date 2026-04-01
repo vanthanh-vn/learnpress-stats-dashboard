@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: LearnPress Stats Dashboard
+ * Plugin Name: Custom LearnPress Stats Dashboard by Thanh
  * Description: Hiển thị thống kê tổng số khóa học, học viên và tiến độ hoàn thành cho LearnPress.
  * Version: 1.0
  * Author: Nguyễn Văn Thanh
